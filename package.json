@@ -20,7 +20,9 @@
   "dependencies": {
     "Faker": "~0.7.0",
     "bluebird": "^3.4.1",
-    "lodash": "^4.13.1"
+    "lodash": "^4.13.1",
+    "moment": "^2.18.1",
+    "rimraf": "^2.6.1"
   },
   "devDependencies": {
     "ava": "^0.15.2"
